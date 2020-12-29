@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(75,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(165,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(202,21): warning C4129: -: неизвестная escape-последовательность
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(207,21): warning C4129: -: неизвестная escape-последовательность
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(212,21): warning C4129: -: неизвестная escape-последовательность
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(230,51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(230,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(230,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(235,51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(235,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(235,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(240,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(240,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(246,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(262,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\ShaderUtility.h(264,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\main.cpp(279,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\main.cpp(279,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\shaders2.0\main.cpp(279,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  shaders2.0.vcxproj -> C:\Users\d\Desktop\4 курс\graphics_course\14-shaders\Debug\shaders2.0.exe

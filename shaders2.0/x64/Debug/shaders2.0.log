@@ -1,0 +1,22 @@
+﻿  main.cpp
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(321,26): warning C4305: '=': truncation from 'double' to 'float'
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(366,26): warning C4129: '-': unrecognized character escape sequence
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(371,26): warning C4129: '-': unrecognized character escape sequence
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(376,26): warning C4129: '-': unrecognized character escape sequence
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(394,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(394,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(394,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(399,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(399,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(399,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(404,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(404,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(493,152): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(535,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(535,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(535,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(538,43): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(540,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(546,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\MEXMAT\course4_1\КГ\mine\indivONlab13\shaders2.0\main.cpp(775,72): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  shaders2.0.vcxproj -> D:\MEXMAT\course4_1\КГ\mine\indivONlab13\x64\Debug\shaders2.0.exe
